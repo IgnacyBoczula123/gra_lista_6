@@ -1,12 +1,12 @@
-# -- Tytuł gry --
+# Jumping Franek
 
 ## Autor
 
--- autor -- 
+Ignacy Boczula 
 
 ## Opis
 
--- Krótki opis twojej gry --
+Prosta gra 2D polegajaca na przeskakiwaniu pieskiem Frankiem przez przeszkody
 
 ### -- Szczegóły --
 
